@@ -1,8 +1,0 @@
-<map id="ImFontAtlasCustomRect" name="ImFontAtlasCustomRect">
-<area shape="rect" id="node1" title=" " alt="" coords="5,303,169,329"/>
-<area shape="rect" id="node2" href="$struct_im_vec2.html" title=" " alt="" coords="189,5,255,32"/>
-<area shape="rect" id="node3" href="$struct_im_font.html" title=" " alt="" coords="207,213,269,240"/>
-<area shape="rect" id="node5" href="$struct_im_font_atlas.html" title=" " alt="" coords="329,109,421,136"/>
-<area shape="rect" id="node6" href="$struct_im_font_config.html" title=" " alt="" coords="270,303,369,329"/>
-<area shape="rect" id="node4" href="$struct_im_font_glyph.html" title=" " alt="" coords="209,109,305,136"/>
-</map>

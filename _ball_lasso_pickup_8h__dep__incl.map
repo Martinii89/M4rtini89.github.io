@@ -1,8 +1,0 @@
-<map id="bakkesmod/wrappers/GameObject/RumbleComponent/BallLassoPickup.h" name="bakkesmod/wrappers/GameObject/RumbleComponent/BallLassoPickup.h">
-<area shape="rect" id="node1" title=" " alt="" coords="77,5,291,61"/>
-<area shape="rect" id="node2" href="$_battarang_pickup_8h.html" title=" " alt="" coords="5,109,219,165"/>
-<area shape="rect" id="node3" href="$includes_8h.html" title=" " alt="" coords="111,213,257,255"/>
-<area shape="rect" id="node4" href="$gamewrapper_8h.html" title=" " alt="" coords="111,303,257,344"/>
-<area shape="rect" id="node5" href="$bakkesmodplugin_8h.html" title=" " alt="" coords="63,392,305,419"/>
-<area shape="rect" id="node6" href="$_plugin_manager_wrapper_8h.html" title=" " alt="" coords="98,467,270,508"/>
-</map>
