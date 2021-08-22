@@ -1,0 +1,24 @@
+<map id="bakkesmod/wrappers" name="bakkesmod/wrappers">
+<area shape="rect" id="node1" href="dir_7f1fde93583cef03515f5bb5d1c59b61.html" title="plugin" alt="" coords="517,351,589,399"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000002_000003.html" title="2" alt="" coords="591,116,599,130"/>
+<area shape="rect" id="node2" href="dir_bf9bb1c4d04d1e27550d7ab207452785.html" title="core" alt="" coords="652,255,724,303"/>
+<area shape="rect" id="node5" href="dir_70616485f226eac15c429c0426af8b68.html" title="GameEvent" alt="" coords="349,159,438,207"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000003_000005.html" title="15" alt="" coords="443,149,458,163"/>
+<area shape="rect" id="node7" href="dir_c0b76730a8dc18fe82113318f995e5ff.html" title="http" alt="" coords="559,159,631,207"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000003_000012.html" title="1" alt="" coords="578,131,586,146"/>
+<area shape="rect" id="node10" href="dir_c1dc4f7a5e3772fdbaa09bdc812432e7.html" title="modals" alt="" coords="463,159,535,207"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000003_000017.html" title="2" alt="" coords="522,139,530,153"/>
+<area shape="rect" id="node4" href="dir_ae6d9d0d1b5f4cdc515b5d1f39f204a2.html" title="Engine" alt="" coords="299,255,371,303"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000004_000002.html" title="1" alt="" coords="498,345,506,360"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000005_000004.html" title="6" alt="" coords="362,236,370,251"/>
+<area shape="rect" id="node6" href="dir_dd3525a1899eda02a6332e1e38ec3b73.html" title="GameObject" alt="" coords="230,159,325,207"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000007_000004.html" title="22" alt="" coords="311,227,326,242"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000012_000001.html" title="1" alt="" coords="654,228,662,243"/>
+<area shape="rect" id="node8" href="dir_7b262420cd025874d2c30bcd02a57246.html" title="items" alt="" coords="133,159,205,207"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000013_000004.html" title="16" alt="" coords="280,233,294,248"/>
+<area shape="rect" id="node9" href="dir_7288a96c7132010aa6f08bafb540e433.html" title="kismet" alt="" coords="37,159,109,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000016_000004.html" title="1" alt="" coords="279,246,287,261"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000017_000004.html" title="1" alt="" coords="387,248,395,262"/>
+<area shape="rect" id="clust2" href="dir_f957bee097aace71b7a4522f569d300e.html" alt="" coords="27,52,641,313"/>
+<area shape="rect" id="clust1" href="dir_8bc1e8c0a7530687253eed39b39a28ed.html" title="bakkesmod" alt="" coords="16,16,761,409"/>
+</map>

@@ -1,0 +1,28 @@
+var class_net_stat_graph_wrapper =
+[
+    [ "CreateBytesSummary", "class_net_stat_graph_wrapper.html#a7c8b1273f5860f2e249e970b6b6f523b", null ],
+    [ "CreateLossSummary", "class_net_stat_graph_wrapper.html#af15d973d4fa9c897bb87b624f419b142", null ],
+    [ "CreatePktSummary", "class_net_stat_graph_wrapper.html#a26be732db132b8c5e6d60ada2103eb70", null ],
+    [ "eventConstruct", "class_net_stat_graph_wrapper.html#a2c8db1708ec6696a4a97be311b7b0c91", null ],
+    [ "eventUpdateGraphRanges", "class_net_stat_graph_wrapper.html#a5b9c374992a3365ee5f0799a42936cfa", null ],
+    [ "GetBytesIn", "class_net_stat_graph_wrapper.html#af941bbed6e7e4f13c04ec4b9ccc8a8dc", null ],
+    [ "GetBytesOut", "class_net_stat_graph_wrapper.html#a894e36b61fb0ad34853c724cc38231e3", null ],
+    [ "GetExpectedInPacketRate", "class_net_stat_graph_wrapper.html#ad6b81dcb0127a4f0d1622ec233175913", null ],
+    [ "GetExpectedOutPacketRate", "class_net_stat_graph_wrapper.html#aa442b2c080596d5e7380a36a67f09428", null ],
+    [ "GetLatency", "class_net_stat_graph_wrapper.html#a9f616e8621832a65bc4f238bed44f214", null ],
+    [ "GetLostPacketsIn", "class_net_stat_graph_wrapper.html#a4451a0df622cb6fbe8803adb4b85d6eb", null ],
+    [ "GetLostPacketsOut", "class_net_stat_graph_wrapper.html#a64aa58f0cf6cb0e8c391b1dadbc499b8", null ],
+    [ "GetMaxBytesRate", "class_net_stat_graph_wrapper.html#a4caf2da0230cf8323c2aa0d4438e3c97", null ],
+    [ "GetPacketsIn", "class_net_stat_graph_wrapper.html#a2fe4ec506d0250eab9ef949a1326cbf6", null ],
+    [ "GetPacketsOut", "class_net_stat_graph_wrapper.html#a77bab8be6bc7cf23863175cd5fc3f92b", null ],
+    [ "SetBytesIn", "class_net_stat_graph_wrapper.html#ab73c3128461d47ed32d92461c14fe3a5", null ],
+    [ "SetBytesOut", "class_net_stat_graph_wrapper.html#af6d6dcc9f43f4c82c515968c59987984", null ],
+    [ "SetExpectedInPacketRate", "class_net_stat_graph_wrapper.html#aafbe45dc2ebe428a73d3264d4e7af0ba", null ],
+    [ "SetExpectedOutPacketRate", "class_net_stat_graph_wrapper.html#a16fc94013b7a9858247077c02ec17a6a", null ],
+    [ "SetLatency", "class_net_stat_graph_wrapper.html#afe634f626b16661cefd76a7d390cbc65", null ],
+    [ "SetLostPacketsIn", "class_net_stat_graph_wrapper.html#a5c952dd91cf255118388dfaa5427a941", null ],
+    [ "SetLostPacketsOut", "class_net_stat_graph_wrapper.html#aa77689b5ab18fd48b7ebe52fa8b01a3c", null ],
+    [ "SetMaxBytesRate", "class_net_stat_graph_wrapper.html#a38c3db64f5bfbb3d2ba054525cb9dd59", null ],
+    [ "SetPacketsIn", "class_net_stat_graph_wrapper.html#a72a9e9c2e0d1b401c4d15a563bcd9e86", null ],
+    [ "SetPacketsOut", "class_net_stat_graph_wrapper.html#ad9dd68abc5b85d9afadb5d73e857c3fc", null ]
+];

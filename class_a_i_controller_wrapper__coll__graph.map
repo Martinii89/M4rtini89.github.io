@@ -1,0 +1,6 @@
+<map id="AIControllerWrapper" name="AIControllerWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,144,256"/>
+<area shape="rect" id="node2" href="$class_controller_wrapper.html" title=" " alt="" coords="11,155,138,181"/>
+<area shape="rect" id="node3" href="$class_actor_wrapper.html" title=" " alt="" coords="23,80,126,107"/>
+<area shape="rect" id="node4" href="$class_object_wrapper.html" title=" " alt="" coords="20,5,129,32"/>
+</map>

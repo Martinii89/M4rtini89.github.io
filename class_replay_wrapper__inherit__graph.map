@@ -1,0 +1,9 @@
+<map id="ReplayWrapper" name="ReplayWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="26,379,137,405"/>
+<area shape="rect" id="node7" href="$class_replay_soccar_wrapper.html" title=" " alt="" coords="5,453,157,480"/>
+<area shape="rect" id="node2" href="$class_object_wrapper.html" title=" " alt="" coords="25,5,135,32"/>
+<area shape="rect" id="node6" href="$class_actor_wrapper.html" title=" " alt="" coords="82,80,185,107"/>
+<area shape="rect" id="node3" href="$class_server_wrapper.html" title=" " alt="" coords="89,304,196,331"/>
+<area shape="rect" id="node4" href="$class_team_game_event_wrapper.html" title=" " alt="" coords="73,229,244,256"/>
+<area shape="rect" id="node5" href="$class_game_event_wrapper.html" title=" " alt="" coords="81,155,220,181"/>
+</map>

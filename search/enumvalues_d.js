@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['paint_0',['PAINT',['../struct_bot_loadout_data_1_1_attribute.html#ab143bc4edb547dff1e366bd548060648aa89a8fd9820d4256f0b101626b40e6a7',1,'BotLoadoutData::Attribute']]],
+  ['permission_5fall_1',['PERMISSION_ALL',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7aed22cd60b1bf8e62fd272ec13bbcf1fa',1,'bakkesmodsdk.h']]],
+  ['permission_5fcustom_5ftraining_2',['PERMISSION_CUSTOM_TRAINING',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a41188101f3507fceedc1c942107d3615',1,'bakkesmodsdk.h']]],
+  ['permission_5ffreeplay_3',['PERMISSION_FREEPLAY',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a070674ccd12e303be3b776f9c799b8ad',1,'bakkesmodsdk.h']]],
+  ['permission_5fmenu_4',['PERMISSION_MENU',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a84f0b7fb9081d1dc84e7c76804f69b17',1,'bakkesmodsdk.h']]],
+  ['permission_5foffline_5',['PERMISSION_OFFLINE',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a6d2d3a7ada6037ee84dfe2ad43a509c6',1,'bakkesmodsdk.h']]],
+  ['permission_5fonline_6',['PERMISSION_ONLINE',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7ac35b99d1da011f8b97ba4046d3da8112',1,'bakkesmodsdk.h']]],
+  ['permission_5fpausemenu_5fclosed_7',['PERMISSION_PAUSEMENU_CLOSED',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a5cc2cab641740baf807a07d9479c238c',1,'bakkesmodsdk.h']]],
+  ['permission_5freplay_8',['PERMISSION_REPLAY',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7a5c1c00d7b5e8cd25969cde5ac8d49748',1,'bakkesmodsdk.h']]],
+  ['permission_5fsoccar_9',['PERMISSION_SOCCAR',['../bakkesmodsdk_8h.html#adf764cbdea00d65edcd07bb9953ad2b7ab20af9bd3ae66182f8b369b5eb59e3dc',1,'bakkesmodsdk.h']]],
+  ['plugintype_5fbotai_10',['PLUGINTYPE_BOTAI',['../bakkesmodsdk_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba1e23de6aee8e6e42da5d67a13d926c45',1,'bakkesmodsdk.h']]],
+  ['plugintype_5fcustom_5ftraining_11',['PLUGINTYPE_CUSTOM_TRAINING',['../bakkesmodsdk_8h.html#a06fc87d81c62e9abb8790b6e5713c55bae31a75c48e6d5debd947e5b689a80be1',1,'bakkesmodsdk.h']]],
+  ['plugintype_5ffreeplay_12',['PLUGINTYPE_FREEPLAY',['../bakkesmodsdk_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba5d2874c72f3d69bff334d130eaabee3e',1,'bakkesmodsdk.h']]],
+  ['plugintype_5freplay_13',['PLUGINTYPE_REPLAY',['../bakkesmodsdk_8h.html#a06fc87d81c62e9abb8790b6e5713c55bae59e874df17e6aec615c7b62bb1f8dd6',1,'bakkesmodsdk.h']]],
+  ['plugintype_5fspectator_14',['PLUGINTYPE_SPECTATOR',['../bakkesmodsdk_8h.html#a06fc87d81c62e9abb8790b6e5713c55bae660c93c6fea795aa69c5297b5c25b6a',1,'bakkesmodsdk.h']]],
+  ['plugintype_5fthreaded_15',['PLUGINTYPE_THREADED',['../bakkesmodsdk_8h.html#a06fc87d81c62e9abb8790b6e5713c55bae75adeb8f7ba78bf2ddba5c065fce413',1,'bakkesmodsdk.h']]],
+  ['plugintype_5fthreadedunload_16',['PLUGINTYPE_THREADEDUNLOAD',['../bakkesmodsdk_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba32e200e8be5558ac6982ad30c6fd7149',1,'bakkesmodsdk.h']]],
+  ['premium_17',['Premium',['../wrapperstructs_8h.html#a141ae6180e161d740f60a1c16144c68caa89a292bf1c3cb8652f06442fe67c0b8',1,'wrapperstructs.h']]]
+];

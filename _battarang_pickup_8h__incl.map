@@ -1,0 +1,19 @@
+<map id="bakkesmod/wrappers/GameObject/RumbleComponent/BattarangPickup.h" name="bakkesmod/wrappers/GameObject/RumbleComponent/BattarangPickup.h">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,219,61"/>
+<area shape="rect" id="node2" href="$wrapperstructs_8h.html" title=" " alt="" coords="130,749,278,776"/>
+<area shape="rect" id="node8" href="$_ball_lasso_pickup_8h.html" title=" " alt="" coords="81,109,279,165"/>
+<area shape="rect" id="node3" href="$linmath_8h.html" title=" " alt="" coords="23,824,97,851"/>
+<area shape="rect" id="node5" title=" " alt="" coords="122,824,169,851"/>
+<area shape="rect" id="node6" title=" " alt="" coords="293,824,347,851"/>
+<area shape="rect" id="node7" title=" " alt="" coords="193,824,268,851"/>
+<area shape="rect" id="node4" title=" " alt="" coords="29,899,91,925"/>
+<area shape="rect" id="node9" href="$_spring_pickup_8h.html" title=" " alt="" coords="133,213,361,255"/>
+<area shape="rect" id="node10" href="$_targeted_pickup_8h.html" title=" " alt="" coords="183,303,425,344"/>
+<area shape="rect" id="node11" href="$_rumble_pickup_component_wrapper_8h.html" title=" " alt="" coords="233,392,457,448"/>
+<area shape="rect" id="node12" href="$_car_component_wrapper_8h.html" title=" " alt="" coords="284,496,487,552"/>
+<area shape="rect" id="node13" href="$_actor_wrapper_8h.html" title=" " alt="" coords="335,600,524,627"/>
+<area shape="rect" id="node14" href="$_object_wrapper_8h.html" title=" " alt="" coords="385,675,569,701"/>
+<area shape="rect" id="node15" href="$bakkesmodsdk_8h.html" title=" " alt="" coords="358,749,589,776"/>
+<area shape="rect" id="node16" title=" " alt="" coords="613,749,691,776"/>
+<area shape="rect" id="node17" title=" " alt="" coords="715,749,784,776"/>
+</map>

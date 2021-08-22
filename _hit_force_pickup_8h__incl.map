@@ -1,0 +1,16 @@
+<map id="bakkesmod/wrappers/GameObject/RumbleComponent/HitForcePickup.h" name="bakkesmod/wrappers/GameObject/RumbleComponent/HitForcePickup.h">
+<area shape="rect" id="node1" title=" " alt="" coords="108,5,321,61"/>
+<area shape="rect" id="node2" href="$wrapperstructs_8h.html" title=" " alt="" coords="117,467,265,493"/>
+<area shape="rect" id="node8" href="$_rumble_pickup_component_wrapper_8h.html" title=" " alt="" coords="177,109,401,165"/>
+<area shape="rect" id="node3" href="$linmath_8h.html" title=" " alt="" coords="5,541,80,568"/>
+<area shape="rect" id="node5" title=" " alt="" coords="105,541,151,568"/>
+<area shape="rect" id="node6" title=" " alt="" coords="275,541,330,568"/>
+<area shape="rect" id="node7" title=" " alt="" coords="176,541,251,568"/>
+<area shape="rect" id="node4" title=" " alt="" coords="11,616,74,643"/>
+<area shape="rect" id="node9" href="$_car_component_wrapper_8h.html" title=" " alt="" coords="228,213,431,269"/>
+<area shape="rect" id="node10" href="$_actor_wrapper_8h.html" title=" " alt="" coords="279,317,468,344"/>
+<area shape="rect" id="node11" href="$_object_wrapper_8h.html" title=" " alt="" coords="356,392,540,419"/>
+<area shape="rect" id="node12" href="$bakkesmodsdk_8h.html" title=" " alt="" coords="341,467,571,493"/>
+<area shape="rect" id="node13" title=" " alt="" coords="596,467,673,493"/>
+<area shape="rect" id="node14" title=" " alt="" coords="697,467,767,493"/>
+</map>

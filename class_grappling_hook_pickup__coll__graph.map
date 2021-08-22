@@ -1,0 +1,8 @@
+<map id="GrapplingHookPickup" name="GrapplingHookPickup">
+<area shape="rect" id="node1" title=" " alt="" coords="43,379,189,405"/>
+<area shape="rect" id="node2" href="$class_targeted_pickup.html" title=" " alt="" coords="60,304,172,331"/>
+<area shape="rect" id="node3" href="$class_rumble_pickup_component_wrapper.html" title=" " alt="" coords="5,229,227,256"/>
+<area shape="rect" id="node4" href="$class_car_component_wrapper.html" title=" " alt="" coords="37,155,195,181"/>
+<area shape="rect" id="node5" href="$class_actor_wrapper.html" title=" " alt="" coords="65,80,167,107"/>
+<area shape="rect" id="node6" href="$class_object_wrapper.html" title=" " alt="" coords="61,5,171,32"/>
+</map>

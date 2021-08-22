@@ -1,0 +1,6 @@
+<map id="TeamWrapper" name="TeamWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="15,229,118,256"/>
+<area shape="rect" id="node2" href="$class_team_info_wrapper.html" title=" " alt="" coords="5,155,128,181"/>
+<area shape="rect" id="node3" href="$class_actor_wrapper.html" title=" " alt="" coords="15,80,118,107"/>
+<area shape="rect" id="node4" href="$class_object_wrapper.html" title=" " alt="" coords="12,5,121,32"/>
+</map>

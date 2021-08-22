@@ -1,0 +1,7 @@
+<map id="PriWrapper" name="PriWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="58,304,145,331"/>
+<area shape="rect" id="node2" href="$class_pri_x_wrapper.html" title=" " alt="" coords="54,229,149,256"/>
+<area shape="rect" id="node3" href="$class_player_replication_info_wrapper.html" title=" " alt="" coords="5,155,197,181"/>
+<area shape="rect" id="node4" href="$class_actor_wrapper.html" title=" " alt="" coords="50,80,153,107"/>
+<area shape="rect" id="node5" href="$class_object_wrapper.html" title=" " alt="" coords="47,5,156,32"/>
+</map>

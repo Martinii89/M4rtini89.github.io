@@ -1,0 +1,13 @@
+<map id="TeamGameEventWrapper" name="TeamGameEventWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="239,229,410,256"/>
+<area shape="rect" id="node5" href="$class_server_wrapper.html" title=" " alt="" coords="271,304,378,331"/>
+<area shape="rect" id="node2" href="$class_game_event_wrapper.html" title=" " alt="" coords="255,155,394,181"/>
+<area shape="rect" id="node3" href="$class_actor_wrapper.html" title=" " alt="" coords="273,80,376,107"/>
+<area shape="rect" id="node4" href="$class_object_wrapper.html" title=" " alt="" coords="270,5,379,32"/>
+<area shape="rect" id="node6" href="$class_game_editor_wrapper.html" title=" " alt="" coords="11,379,151,405"/>
+<area shape="rect" id="node8" href="$class_replay_server_wrapper.html" title=" " alt="" coords="175,379,322,405"/>
+<area shape="rect" id="node9" href="$class_replay_wrapper.html" title=" " alt="" coords="347,379,457,405"/>
+<area shape="rect" id="node11" href="$class_tutorial_wrapper.html" title=" " alt="" coords="481,379,595,405"/>
+<area shape="rect" id="node7" href="$class_training_editor_wrapper.html" title=" " alt="" coords="5,453,156,480"/>
+<area shape="rect" id="node10" href="$class_replay_soccar_wrapper.html" title=" " alt="" coords="326,453,478,480"/>
+</map>

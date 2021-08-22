@@ -1,0 +1,11 @@
+<map id="SpringPickup" name="SpringPickup">
+<area shape="rect" id="node1" title=" " alt="" coords="104,379,203,405"/>
+<area shape="rect" id="node7" href="$class_ball_car_spring_pickup.html" title=" " alt="" coords="5,453,147,480"/>
+<area shape="rect" id="node8" href="$class_ball_lasso_pickup.html" title=" " alt="" coords="171,453,290,480"/>
+<area shape="rect" id="node2" href="$class_targeted_pickup.html" title=" " alt="" coords="97,304,209,331"/>
+<area shape="rect" id="node3" href="$class_rumble_pickup_component_wrapper.html" title=" " alt="" coords="43,229,264,256"/>
+<area shape="rect" id="node4" href="$class_car_component_wrapper.html" title=" " alt="" coords="75,155,232,181"/>
+<area shape="rect" id="node5" href="$class_actor_wrapper.html" title=" " alt="" coords="102,80,205,107"/>
+<area shape="rect" id="node6" href="$class_object_wrapper.html" title=" " alt="" coords="99,5,208,32"/>
+<area shape="rect" id="node9" href="$class_battarang_pickup.html" title=" " alt="" coords="171,528,290,555"/>
+</map>

@@ -1,0 +1,25 @@
+var class_stat_graph_system_wrapper =
+[
+    [ "__StatGraphSystem_TA__SetGraphLevel", "class_stat_graph_system_wrapper.html#ae7eb53a13bf89ccaba14952cdaffa21c", null ],
+    [ "GetGraphLevel", "class_stat_graph_system_wrapper.html#aab386ec274c900f82e288cc9056011d8", null ],
+    [ "GetGraphSampleTime", "class_stat_graph_system_wrapper.html#a8960583b2e01a07c8b070fca46dbbbd6", null ],
+    [ "GetGraphSampleTime2", "class_stat_graph_system_wrapper.html#a56ed97b8933e0f41afcad68cc250572e", null ],
+    [ "GetInputBufferGraph", "class_stat_graph_system_wrapper.html#a29a8d8f4943fe4f02b603ad7ea2f699e", null ],
+    [ "GetNetStatGraph", "class_stat_graph_system_wrapper.html#a2897c974e35dfb6dd172924fc15d3c87", null ],
+    [ "GetPerfStatGraph", "class_stat_graph_system_wrapper.html#ae24fda42b7bb8081890e10d876240ee9", null ],
+    [ "GetPreallocGraphLines", "class_stat_graph_system_wrapper.html#a939a944a2522022f5356958ddf75ebd8", null ],
+    [ "GetStatGraphs", "class_stat_graph_system_wrapper.html#a2f2281218e6f701c10fd33af24765cb7", null ],
+    [ "GetVisibleStatGraphs", "class_stat_graph_system_wrapper.html#a1b3a68858121976ba940eadfc10d320b", null ],
+    [ "Graphtime", "class_stat_graph_system_wrapper.html#ac0c80754ca29ac069af450e46056d456", null ],
+    [ "IsNull", "class_stat_graph_system_wrapper.html#a508ffbf94f87a9a241bfdd6b5641e20d", null ],
+    [ "operator bool", "class_stat_graph_system_wrapper.html#a520d7f15c6c45340d7b374fe66a669be", null ],
+    [ "PacketReceived", "class_stat_graph_system_wrapper.html#a933c7aa3ed808a97bbfc14dff9f9e8a3", null ],
+    [ "SetGraphLevel", "class_stat_graph_system_wrapper.html#a50ef14265594c5b7ed6f0848bab9215d", null ],
+    [ "SetGraphLevel2", "class_stat_graph_system_wrapper.html#a7b4c295f7c2532122e8d6161cc79d4cd", null ],
+    [ "SetGraphSampleTime", "class_stat_graph_system_wrapper.html#ab96c95675af7eac93804acf8923868e1", null ],
+    [ "SetInputBufferGraph", "class_stat_graph_system_wrapper.html#ae0e6ab1d94c3ffb524991d47b68e24af", null ],
+    [ "SetNetStatGraph", "class_stat_graph_system_wrapper.html#ab8d6cefe4aa0b378fb2386a3fa57842a", null ],
+    [ "SetPerfStatGraph", "class_stat_graph_system_wrapper.html#acded995cc3a1468c3e827a12eaf976ff", null ],
+    [ "SetPreallocGraphLines", "class_stat_graph_system_wrapper.html#ae67ea77a4b1832d00684734d4608fc9e", null ],
+    [ "StatGraphNext", "class_stat_graph_system_wrapper.html#a56501ac015650f7c3dd02cc2f3e64246", null ]
+];

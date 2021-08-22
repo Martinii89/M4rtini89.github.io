@@ -1,0 +1,7 @@
+<map id="StatGraphWrapper" name="StatGraphWrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="206,80,337,107"/>
+<area shape="rect" id="node3" href="$class_input_buffer_graph_wrapper.html" title=" " alt="" coords="5,155,172,181"/>
+<area shape="rect" id="node4" href="$class_net_stat_graph_wrapper.html" title=" " alt="" coords="196,155,347,181"/>
+<area shape="rect" id="node5" href="$class_perf_stat_graph_wrapper.html" title=" " alt="" coords="371,155,524,181"/>
+<area shape="rect" id="node2" href="$class_object_wrapper.html" title=" " alt="" coords="217,5,326,32"/>
+</map>
